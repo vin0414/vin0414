@@ -9,5 +9,5 @@ I’m Warvin B. Mogate, a system developer with a passion for crafting innovativ
 📑 jQuery
 🎨 HTML/CSS
 📊 Bootstrap
-🗄️ MySQL
+🗄️ MySQL.
 Always on the lookout for the latest tech trends, I continuously strive to enhance my skills in this ever-evolving field.
