@@ -1,6 +1,7 @@
-I’m Warvin B. Mogate, a system developer with a passion for crafting innovative solutions. I enjoy tackling complex problems and turning them into user-friendly applications. I’m proficient in several programming languages, including:
+I’m Warvin B. Mogate, a system/software developer with a passion for crafting innovative solutions. I enjoy tackling complex problems and turning them into user-friendly applications. I’m proficient in several programming languages, including:
 🐘 PHP
-🚀 CodeIgniter|Laravel
+🔥 CodeIgniter
+⛵ Laravel
 ☕ Java
 📜 JSP
 🛠️ Servlet
